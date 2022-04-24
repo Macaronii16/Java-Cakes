@@ -1,0 +1,92 @@
+#title {
+  background-color: #F0E68C;
+}
+
+h1 {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 2rem;
+  line-height: 10;
+  color: brown;
+
+}
+
+h3 {
+  font-family: 'Lora', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.navbar{
+  padding-button:4.5 rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.downlaod-button{
+  margin:5% 3% 5% 0;
+}
+.navbar-brand {
+font-family: 'Montserrat', sans-serif;
+font-size: 2rem
+font-weight: bold;
+}
+#features{
+ padding: 7% 15%;
+ background-color: white;
+ position: relative;
+ z-index: 1;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+color: #ef8172;
+margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color:  #ff4c68;
+}
+
+
+#press {
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+/* Press Section */
+
+#press {
+background-color: #ef8172;
+text-align: center;
+padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 12%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+padding: 3% 2%;
+
+}
